@@ -42,3 +42,5 @@ stamp-h1
 AssemblyInfo.cs
 Makefile
 Makefile.in
+obj
+.vs
