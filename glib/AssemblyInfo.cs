@@ -1,0 +1,8 @@
+using System.Reflection;
+using System.Runtime.CompilerServices;
+
+[assembly:AssemblyVersion("2.12.0.0")]
+[assembly:AssemblyDelaySign(false)]
+[assembly:AssemblyKeyFile("gtk-sharp.snk")]
+[assembly:GLib.IgnoreClassInitializers]
+[assembly:InternalsVisibleTo("gtk-sharp, PublicKey=002400000480000094000000060200000024000052534131000400000100010071eb6c5575529cbf7244f7a6ea056284f9eae03bcff2cc132c9c490ab309eab0b56bce449df503d9c0a81e520585cdbe70e2fb90434bac04fa6222a80098b7a1a7b3af991a412324bb4325f6b865bb64ebf6d1c206d5732ddfbc70a7389ee53e0c246e3279741ad00503e49842e19bf37b198b402126cb3689c2ea6496a47cb4")]
