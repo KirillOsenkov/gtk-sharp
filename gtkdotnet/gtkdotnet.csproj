@@ -8,7 +8,7 @@
     <ProjectGuid>{F6C52EAE-CB2A-48F6-9C80-E0B776873022}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Gtk.DotNet</RootNamespace>
-    <AssemblyName>gtkdotnet</AssemblyName>
+    <AssemblyName>gtk-dotnet</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -24,7 +24,7 @@
     <ConsolePause>false</ConsolePause>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <NoWarn>1616;1699</NoWarn>
-    <IntermediateOutputPath></IntermediateOutputPath>
+    <IntermediateOutputPath />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <DebugType>none</DebugType>
@@ -41,8 +41,7 @@
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
-  <PropertyGroup>
-  </PropertyGroup>
+  <PropertyGroup />
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>gtk-sharp.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>

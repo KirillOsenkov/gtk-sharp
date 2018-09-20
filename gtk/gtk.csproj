@@ -8,7 +8,7 @@
     <ProjectGuid>{94045F11-4266-40B4-910F-298985AF69D5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Gtk</RootNamespace>
-    <AssemblyName>gtk</AssemblyName>
+    <AssemblyName>gtk-sharp</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <TargetFrameworkProfile />
   </PropertyGroup>

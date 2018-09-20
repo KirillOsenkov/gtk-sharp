@@ -8,7 +8,7 @@
     <ProjectGuid>{58346CC6-DE93-45B4-8093-3508BD5DAA12}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Gdk</RootNamespace>
-    <AssemblyName>gdk</AssemblyName>
+    <AssemblyName>gdk-sharp</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <TargetFrameworkProfile />
   </PropertyGroup>

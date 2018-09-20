@@ -8,7 +8,7 @@
     <ProjectGuid>{FF422D8C-562F-4EA6-8590-9D1A5CD40AD4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Pango</RootNamespace>
-    <AssemblyName>pango</AssemblyName>
+    <AssemblyName>pango-sharp</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <TargetFrameworkProfile />
   </PropertyGroup>
