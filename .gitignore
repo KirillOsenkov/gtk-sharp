@@ -37,7 +37,6 @@ configure.in
 depcomp
 generated.c
 generated-stamp
-gtk-sharp.snk
 install-sh
 lib
 libtool
