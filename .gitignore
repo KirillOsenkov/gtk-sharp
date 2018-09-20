@@ -27,7 +27,6 @@
 bin
 obj
 
-AssemblyInfo.cs
 INSTALL
 Makefile
 Makefile.in
@@ -36,7 +35,6 @@ config.*
 configure
 configure.in
 depcomp
-generated
 generated.c
 generated-stamp
 gtk-sharp.snk
